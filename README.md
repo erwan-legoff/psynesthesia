@@ -1,1 +1,3 @@
-# psynesthesia
+# Psynesthesia
+Psynesthesia is an esperimental project with the goal of uploading your mind into a visual representation thanks to a music playlist.
+My first goal is to create something that can create an parametric image from scratch, and then we will see where it goes...
